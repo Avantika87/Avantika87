@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student; Front End+Developer;AI%20|%20ML%20Admirer;Quick%20learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front-End+Developer;AI%20|%20ML%20Admirer;Quick%20learner&center=true&width=500&height=50"></a>
 <br />
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 
@@ -21,8 +21,8 @@
   
 <h3 align="left">Coding Platform:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/ag8498?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ag8498?hr_r=1" height="50" width="50" /></a>
-<br /><br />
+<a href="https://www.hackerrank.com/ag8498?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ag8498?hr_r=1" height="50" width="50" /></a>
+<br />
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=c,py,html,css,mysql,git&perline=)](https://skillicons.dev)
