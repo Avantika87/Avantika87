@@ -2,11 +2,11 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front-End+Developer;AI%20|%20ML%20Admirer;Quick%20learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front-End+Developer;Quick%20learner&center=true&width=500&height=50"></a>
 <br />
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/sute-girl-hacker-with-laptop-avatar-cartoon-style-generated-ai_88188-3326.jpg?w=740">
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **AIML**
 
 - 📫 How to reach me **avantikagupta8726@gmail.com**
 <br />
